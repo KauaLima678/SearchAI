@@ -1,7 +1,7 @@
 
 # SearchAI — Portfólio de IAs
 
-![Preview](./Imgs/SearchAI.png)
+![Preview](./imgs/SearchAI.png)
 
 Resumo
 ------
