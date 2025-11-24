@@ -1,0 +1,245 @@
+[
+  {
+    "nameAI": "Google Gemini",
+    "desenvolvedor": "Google",
+    "releaseDate": "2023",
+    "type": "Modelo de Linguagem Grande (LLM)",
+    "function": "Raciocínio complexo, multimodalidade",
+    "recommendation": "Pesquisa avançada, criação de conteúdo multimodal (texto, imagem, vídeo), resumo de dados extensos.",
+    "url": "https://gemini.google.com"
+  },
+  {
+    "nameAI": "ChatGPT (GPT-4)",
+    "desenvolvedor": "OpenAI",
+    "releaseDate": "2023",
+    "type": "Modelo de Linguagem Grande (LLM)",
+    "function": "Conversação natural, geração de texto criativo e coesão de informações.",
+    "recommendation": "Geração de ideias (Brainstorming), escrita de e-mails, rascunhos de artigos, simulação de diálogos e programação básica.",
+    "url": "https://chatgpt.com/"
+  },
+  {
+    "nameAI": "Llama 3",
+    "desenvolvedor": "Meta AI",
+    "releaseDate": "2024",
+    "type": "Modelo de Linguagem Grande (LLM)",
+    "function": "Geração de texto e raciocínio complexo, com foco em segurança e desempenho.",
+    "recommendation": "Para desenvolvedores que buscam modelos open-source de alto desempenho para fine-tuning e aplicações comerciais.",
+    "url": "https://llama.meta.com"
+  },
+  {
+    "nameAI": "Stable Diffusion 3",
+    "desenvolvedor": "Stability AI",
+    "releaseDate": "2024",
+    "type": "Modelo de Geração de Imagem",
+    "function": "Criação de imagens fotorealistas a partir de texto com foco na coerência textual e precisão de detalhes.",
+    "recommendation": "Uso profissional em design gráfico e arte digital onde a precisão da renderização de prompts complexos é crucial.",
+    "url": "https://stability.ai/stable-diffusion"
+  },
+  {
+    "nameAI": "Microsoft Copilot",
+    "desenvolvedor": "Microsoft",
+    "releaseDate": "2023",
+    "type": "Assistente de Produtividade Integrado",
+    "function": "Automação e assistência em tarefas do Microsoft 365 (Word, Excel, PowerPoint) e navegação web.",
+    "recommendation": "Essencial para usuários corporativos que desejam aumentar a produtividade no ambiente M365 e busca geral com IA.",
+    "url": "https://copilot.microsoft.com"
+  },
+  {
+    "nameAI": "Claude 3 Opus",
+    "desenvolvedor": "Anthropic",
+    "releaseDate": "2024",
+    "type": "Modelo de Linguagem Grande (LLM)",
+    "function": "Processamento e análise de longos contextos (até 200k tokens) e tarefas de raciocínio avançado.",
+    "recommendation": "Ideal para análise de documentos extensos (relatórios, artigos jurídicos) e suporte à pesquisa acadêmica.",
+    "url": "https://www.anthropic.com/claude"
+  },
+  {
+    "nameAI": "DALL-E 3",
+    "desenvolvedor": "OpenAI",
+    "releaseDate": "2023",
+    "type": "Modelo de Geração de Imagem",
+    "function": "Criação de imagens de alta qualidade com forte aderência ao prompt, integrado com ferramentas de conversação.",
+    "recommendation": "Usuários que precisam de integração perfeita entre a ideia textual e a geração visual, acessível via APIs ou ChatGPT Plus.",
+    "url": "https://openai.com/dall-e-3"
+  },
+  {
+    "nameAI": "AlphaFold 3",
+    "desenvolvedor": "DeepMind (Google)",
+    "releaseDate": "2024",
+    "type": "Modelo de Biologia Computacional",
+    "function": "Previsão da estrutura 3D de complexos macromoleculares, incluindo proteínas, DNA, RNA e ligantes.",
+    "recommendation": "Pesquisadores em biotecnologia e farmacologia para acelerar a descoberta e o design de novos medicamentos.",
+    "url": "https://www.deepmind.com/research/alphafold"
+  },
+  {
+    "nameAI": "Midjourney v6",
+    "desenvolvedor": "Midjourney",
+    "releaseDate": "2023",
+    "type": "Modelo de Geração de Imagem",
+    "function": "Criação de arte digital com estética única e resultados altamente detalhados, frequentemente cinematográficos.",
+    "recommendation": "Artistas e designers focados em resultados altamente estilizados e composição artística avançada.",
+    "url": "https://www.midjourney.com"
+  },
+  {
+    "nameAI": "Whisper",
+    "desenvolvedor": "OpenAI",
+    "releaseDate": "2022",
+    "type": "Modelo de Reconhecimento de Fala",
+    "function": "Transcrição de áudio em múltiplos idiomas, tradução e detecção de idioma com alta precisão.",
+    "recommendation": "Desenvolvedores que precisam de um motor de transcrição robusto e preciso para legendagem ou indexação de conteúdo de áudio.",
+    "url": "https://openai.com/research/whisper"
+  },
+  {
+    "nameAI": "Hugging Face Hub",
+    "desenvolvedor": "Hugging Face",
+    "releaseDate": "2019",
+    "type": "Plataforma de IA",
+    "function": "Repositório centralizado de modelos, datasets e Spaces (demonstrações de código) de código aberto.",
+    "recommendation": "Comunidade de ML e engenheiros que buscam colaborar, compartilhar e implantar modelos de aprendizado de máquina de forma eficiente.",
+    "url": "https://huggingface.co"
+  },
+  {
+    "nameAI": "ElevenLabs Prime Voice AI",
+    "desenvolvedor": "ElevenLabs",
+    "releaseDate": "2022",
+    "type": "Síntese de Voz (TTS)",
+    "function": "Geração de fala com entonação humana, suporte a mais de 20 idiomas e clonagem de voz realista.",
+    "recommendation": "Criadores de conteúdo, podcasters e desenvolvedores de audiolivros que exigem qualidade de voz de nível profissional.",
+    "url": "https://elevenlabs.io"
+  },
+  {
+    "nameAI": "Perplexity",
+    "desenvolvedor": "Perplexity AI",
+    "releaseDate": "2022",
+    "type": "Motor de Busca Conversacional",
+    "function": "Oferece respostas diretas e detalhadas a consultas complexas, citando todas as fontes utilizadas.",
+    "recommendation": "Usuários que precisam de pesquisa rápida, verificável e baseada em fatos, ideal para estudantes e jornalistas.",
+    "url": "https://www.perplexity.ai"
+  },
+  {
+    "nameAI": "GitHub Copilot",
+    "desenvolvedor": "GitHub (Microsoft)",
+    "releaseDate": "2021",
+    "type": "Assistente de Programação",
+    "function": "Sugestão de código, autocompletar e geração de funções inteiras dentro do ambiente de desenvolvimento (IDE).",
+    "recommendation": "Programadores e equipes de desenvolvimento que visam aumentar a velocidade de codificação e reduzir a repetição de código.",
+    "url": "https://github.com/features/copilot"
+  },
+  {
+    "nameAI": "Adobe Firefly",
+    "desenvolvedor": "Adobe",
+    "releaseDate": "2023",
+    "type": "IA Generativa para Criação",
+    "function": "Geração de imagens, efeitos de texto e preenchimento generativo de pixels dentro do ecossistema Adobe Creative Cloud.",
+    "recommendation": "Profissionais criativos que usam a suíte Adobe (Photoshop, Illustrator) e buscam ferramentas de IA seguras para uso comercial.",
+    "url": "https://www.adobe.com/sensei/generative-ai/firefly.html"
+  },
+  {
+    "nameAI": "Falcon 40B",
+    "desenvolvedor": "Technology Innovation Institute (TII)",
+    "releaseDate": "2023",
+    "type": "Modelo de Linguagem (LLM)",
+    "function": "Modelo de linguagem open-source de grande escala para tarefas gerais de PNL e experimentação.",
+    "recommendation": "Pesquisadores e empresas que preferem modelos pré-treinados de grande porte com licença mais permissiva (Apache 2.0).",
+    "url": "https://falconllm.tii.ae"
+  },
+  {
+    "nameAI": "Sora",
+    "desenvolvedor": "OpenAI",
+    "releaseDate": "2024",
+    "type": "Modelo de Geração de Vídeo",
+    "function": "Criação de cenas de vídeo complexas, longas e coerentes a partir de instruções textuais simples.",
+    "recommendation": "Cineastas, criadores de conteúdo e profissionais de marketing explorando a prototipagem rápida de vídeo de alta fidelidade.",
+    "url": "https://openai.com/sora"
+  },
+  {
+    "nameAI": "Pytorch",
+    "desenvolvedor": "Facebook AI Research (Meta)",
+    "releaseDate": "2016",
+    "type": "Framework de Deep Learning",
+    "function": "Biblioteca de código aberto para construção de redes neurais e computação tensores, com foco em flexibilidade e pesquisa.",
+    "recommendation": "Pesquisadores e cientistas de dados que precisam de um framework dinâmico para experimentação rápida de modelos complexos.",
+    "url": "https://pytorch.org"
+  },
+  {
+    "nameAI": "AutoGPT",
+    "desenvolvedor": "Vários (Open-source)",
+    "releaseDate": "2023",
+    "type": "Agente Autônomo",
+    "function": "Execução de tarefas complexas e multifacetadas, estabelecendo metas e dividindo-as em submetas, usando acesso à internet e memória.",
+    "recommendation": "Desenvolvedores e usuários avançados que buscam automatizar fluxos de trabalho completos e complexos.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "nameAI": "You.com Smart Search",
+    "desenvolvedor": "You.com",
+    "releaseDate": "2021",
+    "type": "Mecanismo de Busca e LLM",
+    "function": "Busca na web combinada com a geração de respostas resumidas e personalizadas, priorizando privacidade.",
+    "recommendation": "Usuários que valorizam a privacidade e desejam uma alternativa aos motores de busca tradicionais, com recursos de IA.",
+    "url": "https://you.com"
+  },
+  {
+    "nameAI": "Runway Gen-2",
+    "desenvolvedor": "Runway",
+    "releaseDate": "2023",
+    "type": "Geração de Vídeo e Edição",
+    "function": "Criação de vídeo a partir de texto, imagem ou outro videoclipe, e ferramentas de edição generativa (inpainting/outpainting).",
+    "recommendation": "Criadores de vídeo que precisam de ferramentas rápidas para prototipagem e edição generativa de conteúdo visual.",
+    "url": "https://runwayml.com"
+  },
+  {
+    "nameAI": "Keras",
+    "desenvolvedor": "Google",
+    "releaseDate": "2015",
+    "type": "Biblioteca de Deep Learning",
+    "function": "Interface de alto nível para construir e treinar redes neurais, projetada para ser rápida e modular.",
+    "recommendation": "Cientistas de dados e engenheiros de ML que procuram uma interface amigável e acessível para a construção de modelos complexos.",
+    "url": "https://keras.io"
+  },
+  {
+    "nameAI": "Rasa",
+    "desenvolvedor": "Rasa Technologies",
+    "releaseDate": "2016",
+    "type": "Framework para Chatbots Conversacionais",
+    "function": "Desenvolvimento e implantação de assistentes de IA contextuais e de código aberto para uso empresarial.",
+    "recommendation": "Empresas que precisam construir chatbots avançados e personalizados para atendimento ao cliente ou automação interna.",
+    "url": "https://rasa.com"
+  },
+  {
+    "nameAI": "Tesseract OCR",
+    "desenvolvedor": "Google",
+    "releaseDate": "1985 (Modernizado em 2005)",
+    "type": "Reconhecimento Óptico de Caracteres (OCR)",
+    "function": "Extração de texto de imagens, PDFs e outros documentos digitalizados.",
+    "recommendation": "Desenvolvedores que precisam de uma ferramenta open-source robusta para digitalização e processamento de documentos.",
+    "url": "https://github.com/tesseract-ocr/tesseract"
+  },
+  {
+    "nameAI": "Tabnine",
+    "desenvolvedor": "Tabnine",
+    "releaseDate": "2017",
+    "type": "Assistente de Codificação Preditiva",
+    "function": "Previsão de linha de código inteira baseada em contexto e modelos de IA treinados em código open-source.",
+    "recommendation": "Desenvolvedores que usam múltiplas IDEs e buscam sugestões de código ultra-rápidas e específicas para o projeto.",
+    "url": "https://www.tabnine.com"
+  },
+  {
+    "nameAI": "DeepL Translator",
+    "desenvolvedor": "DeepL SE",
+    "releaseDate": "2017",
+    "type": "Serviço de Tradução Neural",
+    "function": "Tradução automática de texto e documentos com alta precisão e fluidez natural, superando muitos concorrentes.",
+    "recommendation": "Profissionais e empresas que necessitam de traduções de documentos e comunicações com qualidade quase humana.",
+    "url": "https://www.deepl.com"
+  },
+  {
+    "nameAI": "Databricks MosaicML",
+    "desenvolvedor": "Databricks",
+    "releaseDate": "2021 (Aquisição em 2023)",
+    "type": "Plataforma de Treinamento de Modelos",
+    "function": "Facilita o treinamento, ajuste fino e implantação eficiente de modelos de IA, especialmente LLMs, em escala.",
+    "recommendation": "Engenheiros de ML e empresas que buscam otimizar o custo e o tempo de treinamento de modelos de grande escala.",
+    "url": "https://www.databricks.com/product/mosaicml"
+  }
+]

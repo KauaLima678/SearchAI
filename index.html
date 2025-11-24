@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>SearchAI</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <h1>Search<span>AI</span></h1>
+      </div>
+
+      <nav>
+        <a href="./index.html" class="active">Início</a>
+        <a href="./sobre.html">Sobre</a>
+      </nav>
+    </header>
+    <section class="main">
+      <div class="hero">
+        <div id="particles-js"></div>
+        <div class="textHero">
+          <h1>Explore o futuro das Inteligências Artificiais com Search<span>AI</span></h1>
+          <p>
+            Descubra, compare e experimente as principais IAs do mercado —
+            descrições objetivas, usos recomendados e links oficiais.
+          </p>
+        </div>
+
+        <a class="scrollBtn">
+          <div class="scroll"></div>
+        </a>
+      </div>
+
+      <div class="searchContainer">
+        <div class="searchArea">
+          <h2>Pesquise, compare e teste Inteligências Artificiais</h2>
+          <div class="input">
+            <input
+            type="text"
+            id="searchInput"
+            placeholder="Procure por IA ou desenvolvedora"
+          />
+          <button onclick="buscar()" class="searchBtn">Buscar</button>
+          </div>
+        </div>
+
+        <div class="cardsContainer">
+          <article class="card">
+             <!-- <h2>${dado.nameAI}</h2>
+        <div class="developer info">
+        <span class="subTitle">Desenvolvedor:</span>
+        <span>${dado.desenvolvedor}</span>
+        </div>
+        <div class="date info">
+          <span class="subTitle">Lançamento:</span>
+          <span>${dado.releaseDate}</span>
+        </div>
+        <div class="function info">
+          <span class="subTitle">Função:</span>
+          <span>${dado.function}</span>
+        </div>
+        <div class="recommendation info">
+          <span class="subTitle">Recomendada para: </span>
+          <span>${dado.recommendation}</span>
+        </div>
+        <div class="link">
+            <a href="${dado.url}" target="_blank">Testar IA</a>
+        </div> -->
+          </article>
+        </div>
+        <div class="button">
+          <button class="more" onclick="showNext()">Ver mais</button>
+        </div>
+      </div>
+    </section>
+    <script src="Imgs/particles.js-master/particles.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
